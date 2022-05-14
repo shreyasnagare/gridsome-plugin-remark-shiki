@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "parse-numeric-range": "^1.3.0",
-    "shiki": "^0.9.10",
+    "shiki": "^0.10.1",
     "unist-util-visit": "^2.0.3"
   },
   "publishConfig": {
